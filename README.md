@@ -6,7 +6,7 @@
 
 - :telescope: I’m working as a _**Full-stack web/backEnd developer**_.
 
-- :fire: My main superpower is _**Javascript**_.
+- :fire: My main superpowers are _**Javascript**_ and _**Java**_.
 
 - :zap: In my free time, I love to read about design patterns, software architecture and frameworks inovations.
 
